@@ -1,0 +1,10 @@
+Version 1.1.1 - 20 April 2022
+===================================
+
+1. Fixed: CSS issue fixed
+2. Fixed: Moralis issue fixed
+
+Version 1.0.0 - 28 March 2022
+===================================
+
+1. Initial release
